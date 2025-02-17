@@ -1,19 +1,19 @@
 
 X
-java:S6437"6Revoke and change this password, as it is compromised.(¦ÀËëùÿÿÿÿ8’Å°Ï2
+java:S6437"6Revoke and change this password, as it is compromised.(¦ÀËëùÿÿÿÿ8†Œ±¦Ñ2
 g
-java:S32523"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(Æ²âô8Ğ¸±Ï2
+java:S32522"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(Æ²âô8˜Œ±¦Ñ2
 d
-java:S32524"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(üÖ²¥8Ğ¸±Ï2
+java:S32523"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(üÖ²¥8˜Œ±¦Ñ2
 e
-java:S32525"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(³ãˆÏ8Ğ¸±Ï2
+java:S32524"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(³ãˆÏ8˜Œ±¦Ñ2
 j
-java:S32526"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(›êŒòÿÿÿÿÿ8Ğ¸±Ï2
+java:S32525"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(›êŒòÿÿÿÿÿ8™Œ±¦Ñ2
 m
-java:S32527"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(á¶ Óıÿÿÿÿ8±Å°Ï2
+java:S32526"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(á¶ Óıÿÿÿÿ8™Œ±¦Ñ2
 i
-java:S32528"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(÷µ•–8±Å°Ï2
+java:S32527"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(÷µ•–8™Œ±¦Ñ2
 ~
-java:S32529"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(ßÓÿ­8±Å°Ï2
+java:S32528"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(ßÓÿ­8šŒ±¦Ñ2
 r
-java:S3252:"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(“×Ğéıÿÿÿÿ8±Å°Ï2
+java:S32529"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(“×Ğéıÿÿÿÿ8šŒ±¦Ñ2
